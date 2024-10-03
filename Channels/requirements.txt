@@ -2,3 +2,6 @@ django
 channels[daphne]
 channes_redis
 
+
+pytest-django
+pytest-asyncio
